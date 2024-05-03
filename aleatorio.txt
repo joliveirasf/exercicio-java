@@ -1,0 +1,12 @@
+<body>
+<p id="parafrafo"> loren ipsun</p> 
+<script>
+const paragrafo = document.getElementById('parafrafo')
+</script>
+
+<div class = "centro"></div>
+<p class = "centro"></p>
+<ul>
+<li class = "centro"></li>
+</ul>
+</body>
